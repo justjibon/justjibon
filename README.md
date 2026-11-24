@@ -1,92 +1,75 @@
-
 <div align="center">
 
-# Nazrul Islam Jibon
-
-**Researcher · Creator · Builder**
-
-I like figuring things out.
-
-Exploring emerging tech, following interesting ideas, and building things along the way.
-
-[Website](https://justjibon.com/)　·　[X](https://x.com/Just_Jibon)　·　[LinkedIn](https://www.linkedin.com/in/justjibon/)
+<img src="./banner.svg" alt="Nazrul Islam Jibon — Researcher · Creator · Builder" width="100%"/>
 
 <br/>
 
-![Curiosity](https://img.shields.io/badge/Stay%20curious-18181B?style=flat-square&labelColor=18181B&color=D97706)
-![Build](https://img.shields.io/badge/Build%20something-D97706?style=flat-square&labelColor=18181B&color=D97706)
+[![Website](https://img.shields.io/badge/justjibon.com-0A0A0A?style=for-the-badge&logo=safari&logoColor=C6FF3D)](https://justjibon.com)
+[![X](https://img.shields.io/badge/@Just__Jibon-0A0A0A?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Just_Jibon)
+[![LinkedIn](https://img.shields.io/badge/in/justjibon-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justjibon/)
+[![Telegram](https://img.shields.io/badge/@justjibon-0A0A0A?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/justjibon)
+[![Email](https://img.shields.io/badge/Say_hello-0A0A0A?style=for-the-badge&logo=maildotru&logoColor=C6FF3D)](mailto:justjibon@yahoo.com)
 
 </div>
 
 ---
 
-### 01 / About
+### 👋 A little about me
 
-I'm Jibon, based in Bangladesh.
+I research what's happening, talk to people building interesting things, and turn what I learn into content, ideas, and projects of my own. Most of my work sits somewhere between **research, content, creator programs, communities, and early-stage projects** — and I've never really liked putting everything into one box.
 
-Usually somewhere between researching an idea, exploring a new tool, and trying to build something useful.
+> *Your curiosity isn't a hobby. It's a method.*
 
-Interested in emerging tech, AI, Web3, internet culture, and the people building interesting things.
+- 🔭 **Currently into:** emerging tech, internet culture, interesting founders, and weird ideas that shouldn't work but somehow do
+- 📚 **Outside work:** reading, exploring random corners of the internet, experimenting, occasionally building
+- 🎓 **Background:** MBA & BBA in Accounting, Govt. Titumir College
+- 💬 **Open to:** research roles, advisory work, creator programmes, freelance projects, ambitious teams
 
-### 02 / Currently exploring
+---
 
-`AI`　`Web3`　`Automation`　`Open Source`
-
-### 03 / Selected projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[NAZ Vault ↗](https://github.com/justjibon/NAZ-Vault)**
-
-A self-custody wallet for EVM chains and Solana.
-
-`Web3` `Wallet`
-
-</td>
-<td width="50%" valign="top">
-
-**[GPT Text Corrector ↗](https://github.com/justjibon/gpt-text-corrector)**
-
-A lightweight browser extension for improving text with AI.
-
-`AI` `Extension`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[NAZ IPTV ↗](https://github.com/justjibon/NAZ-IPTV)**
-
-An open M3U playlist project with channels across different categories.
-
-`IPTV` `Open Source`
-
-</td>
-<td width="50%" valign="top">
-
-**[CoinDisc ↗](https://coindisc.net/)**
-
-A little corner of the internet for crypto research, media, and Web3.
-
-`Research` `Media`
-
-</td>
-</tr>
-</table>
-
-### 04 / Tech stack
+### 📊 Numbers from the work
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-18181B?style=flat-square&logo=javascript&logoColor=D97706)
-![TypeScript](https://img.shields.io/badge/TypeScript-18181B?style=flat-square&logo=typescript&logoColor=D97706)
-![Python](https://img.shields.io/badge/Python-18181B?style=flat-square&logo=python&logoColor=D97706)
-![Node.js](https://img.shields.io/badge/Node.js-18181B?style=flat-square&logo=nodedotjs&logoColor=D97706)
-![Playwright](https://img.shields.io/badge/Playwright-18181B?style=flat-square&logo=playwright&logoColor=D97706)
-![Solidity](https://img.shields.io/badge/Solidity-18181B?style=flat-square&logo=solidity&logoColor=D97706)
+| 🔍 **5,000+** | 📞 **1,200+** | 🎥 **400+** | 👁️ **19.7M+** | 🎮 **120+** |
+|:---:|:---:|:---:|:---:|:---:|
+| Projects scouted | Intro calls | UGC creators managed | Views | Games tested |
+
+</div>
+
+---
+
+### 🧭 What I care about
+
+| | |
+|---|---|
+| **🔬 Research** | Finding signal early: projects, founders, products and narratives before they're obvious. *(Scouting · Intro calls · Product testing)* |
+| **🎬 Creators** | Turning what I learn into content, tutorials and creator programs people actually watch. *(UGC · Publishing · Creator programs)* |
+| **🤝 Community** | Understanding internet communities, and helping real people through collective action. *(Communities · Awareness · Internet culture)* |
+
+---
+
+### 🛠️ Where I spent time
+
+**[Seedify](https://seedify.fund)** — *Research Specialist · Sep 2021 – Jan 2026*
+Scouted 5K+ early-stage projects, held 1,200+ intro calls with founders, supported 400+ UGC creators across 12 campaigns (19.7M+ views, 940K engagements), and tested 120+ games before launch.
+
+**[CoinDisc](https://coindisc.net)** — *Founder · Oct 2022 – Present*
+A research-driven media project: 45+ articles, 10+ Web3 tutorials, 3+ years publishing and following ideas early.
+
+**[Give a Hand](https://www.facebook.com/GiveaHand.BD)** — *Co-Founder · Jun 2016 – Present*
+Community initiative organizing 30+ events: blood donation support, awareness campaigns, and food drives for people and animals.
+
+---
+
+### 📈 GitHub stats
+
+<div align="center">
+
+<img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=justjibon&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=C6FF3D&text_color=F5F5F0&icon_color=C6FF3D&ring_color=C6FF3D" />
+<img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justjibon&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=C6FF3D&text_color=F5F5F0" />
+
+<img alt="GitHub streak" src="https://streak-stats.demolab.com?user=justjibon&hide_border=true&background=0A0A0A&ring=C6FF3D&fire=C6FF3D&currStreakLabel=F5F5F0&sideLabels=F5F5F0&currStreakNum=F5F5F0&sideNums=F5F5F0&dates=8a8a85" />
 
 </div>
 
@@ -94,8 +77,10 @@ A little corner of the internet for crypto research, media, and Web3.
 
 <div align="center">
 
-**Stay curious. Build momentum.**
+**Let's find something worth building.**
 
-[justjibon.com](https://justjibon.com/)
+[Get in touch ↗](mailto:justjibon@yahoo.com) · [View CV ↗](https://justjibon.com/assets/nazrul-islam-jibon-cv.pdf) · [justjibon.com ↗](https://justjibon.com)
+
+<sub>Stay curious. Build momentum.</sub>
 
 </div>
