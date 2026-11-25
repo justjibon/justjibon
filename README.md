@@ -27,7 +27,7 @@ I like figuring things out. I explore emerging tech, follow interesting ideas, a
 
 <div align="center">
 
-<img src="./github-stats.svg" alt="Selected projects: NAZ Vault, GPT Text Corrector, and NAZ IPTV" width="100%"/>
+<img src="https://raw.githubusercontent.com/justjibon/justjibon/main/github-stats.svg" alt="GitHub stats" width="100%"/>
 
 </div>
 
