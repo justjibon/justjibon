@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" alt="Nazrul Islam Jibon — Researcher · Creator · Builder" width="100%"/>
+<img src="https://raw.githubusercontent.com/justjibon/justjibon/main/banner.svg" alt="Nazrul Islam Jibon — Researcher · Creator · Builder" width="100%"/>
 
 <br/>
 
