@@ -14,7 +14,7 @@
 
 ---
 
-### 👋 Hey, I'm Jibon
+### 👋 Hey, I'm Nazrul Islam Jibon
 
 I like figuring things out. I explore emerging tech, follow interesting ideas, and build useful things along the way.
 
