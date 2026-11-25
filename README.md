@@ -16,18 +16,24 @@
 
 ### 👋 Hey, I'm Jibon
 
-I like figuring things out. I research what's happening in emerging tech, talk to people building interesting things, and try building a few things of my own.
+I like figuring things out. I build tools, experiment with ideas, and explore technology: useful projects, automation, AI, Web3, and anything worth building.
 
 - 🔭 Exploring **AI**, **Web3** and emerging tech
-- 🛠️ Experimenting with small projects and ideas
+- 🛠️ Building browser extensions, wallets and small tools
 - 🌱 Always learning something new
 - 💬 Happy to chat about research, creators, communities or a good rabbit hole
 
 <br/>
 
-### ⚡ The work in numbers
+### 🚀 Projects
 
-<img src="./stats.svg" alt="Work stats: 5,000+ projects scouted, 1,200+ intro calls, 400+ UGC creators, 19.7M+ views, 120+ games tested" width="100%"/>
+<img src="./stats.svg" alt="Projects: NAZ-Vault, gpt-text-corrector, NAZ-IPTV" width="100%"/>
+
+| Project | What it does |
+|---|---|
+| [**NAZ-Vault**](https://github.com/justjibon/NAZ-Vault) | A self-custody browser wallet for EVM and Solana networks (TypeScript) |
+| [**gpt-text-corrector**](https://github.com/justjibon/gpt-text-corrector) | A Chrome extension that corrects, rewrites, shortens and translates text with OpenAI models (JavaScript) |
+| [**NAZ-IPTV**](https://github.com/justjibon/NAZ-IPTV) | An open M3U IPTV playlist with 100+ Bangladeshi, Indian, sports, news, music, Islamic & kids channels |
 
 <br/>
 
