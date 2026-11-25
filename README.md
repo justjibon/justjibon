@@ -4,28 +4,34 @@
 
 <br/>
 
-[![Website](https://img.shields.io/badge/justjibon.com-0A0A0A?style=for-the-badge&logo=safari&logoColor=C6FF3D)](https://justjibon.com)
-[![X](https://img.shields.io/badge/@Just__Jibon-0A0A0A?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Just_Jibon)
-[![LinkedIn](https://img.shields.io/badge/in/justjibon-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justjibon/)
-[![Telegram](https://img.shields.io/badge/@justjibon-0A0A0A?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/justjibon)
-[![Email](https://img.shields.io/badge/Say_hello-0A0A0A?style=for-the-badge&logo=maildotru&logoColor=C6FF3D)](mailto:justjibon@yahoo.com)
+[![Website](https://img.shields.io/badge/justjibon.com-C65D32?style=for-the-badge&logo=safari&logoColor=white)](https://justjibon.com)
+[![X](https://img.shields.io/badge/@Just__Jibon-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Just_Jibon)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justjibon/)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/justjibon)
+[![Email](https://img.shields.io/badge/Email-6001D2?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:justjibon@yahoo.com)
 
 </div>
 
-<br/>
+---
 
 ### 👋 Hey, I'm Jibon
 
-I like figuring things out. I research what's happening in emerging tech, talk to people building interesting things, and try building a few things of my own.
+I like figuring things out. I explore emerging tech, follow interesting ideas, and build useful things along the way.
 
-- 🔭 Exploring **AI**, **Web3** and emerging tech
-- 🛠️ Experimenting with small projects and ideas
+- 🔭 Exploring **AI**, **Web3**, and emerging technology
+- 🛠️ Building small tools, experiments, and projects
 - 🌱 Always learning something new
-- 💬 Happy to chat about research, creators, communities or a good rabbit hole
+- 💬 Interested in research, creators, communities, and internet culture
 
-<br/>
+### Projects
 
-### 📈 GitHub stats
+<div align="center">
+
+<img src="./github-stats.svg" alt="Selected projects: NAZ Vault, GPT Text Corrector, and NAZ IPTV" width="100%"/>
+
+</div>
+
+### GitHub stats
 
 <div align="center">
 
@@ -36,7 +42,7 @@ I like figuring things out. I research what's happening in emerging tech, talk t
 
 </div>
 
-<br/>
+---
 
 <div align="center">
 
